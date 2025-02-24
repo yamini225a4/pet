@@ -6,6 +6,8 @@ PetPulse is a user-friendly e-commerce website designed for pet lovers to browse
 
 ✨ Key Features:
 ✅ Homepage: A visually appealing landing page displaying featured pet products.
+
+
 ✅ Product Listings: Organized product categories with images, descriptions, and prices.
 ✅ Responsive Design: Mobile-friendly layout using CSS for a smooth user experience.
 ✅ Interactive UI: JavaScript-based animations and interactions for enhanced engagement.
